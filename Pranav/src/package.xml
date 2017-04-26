@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>BookStore__c.Availability__c</members>
+        <members>BookStore__c.BookStore__c</members>
+        <members>BookStore__c.Book_Name__c</members>
+        <members>BookStore__c.Book_Price__c</members>
+        <members>BookStore__c.Book_Writer__c</members>
+
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>BookStore__c</members>
+        <members>Catalogue__c</members>
+        <name>CustomObject</name>
+    </types>
+    <version>36.0</version>
+</Package>
